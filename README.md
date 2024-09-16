@@ -35,17 +35,6 @@
 <img src="https://camo.githubusercontent.com/8a6912ffd6e3bba0d696c8803e3ff21a37f24cbca4a3433e23af910250e974ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="git" > 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" > 
 <img src="https://camo.githubusercontent.com/97e77bb8ef2cb06bce18bd7d7979c4f9a1578e16c68c029908d6e04d14d6086e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="vscode" > 
-
-
-
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" > 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" > 
 </p>
@@ -61,6 +50,5 @@
 <br>
 
 <h3 align="left">Github Stats :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkrishna4&show_icons=true&locale=en&layout=compact" alt="naveenkrishna4" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkrishna4&show_icons=true&locale=en" alt="naveenkrishna4" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkrishna4&" alt="naveenkrishna4" /></p>
