@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on **Web development projects**
 - 📫 How to reach me **krishnapmnaveen@gmail.com**
 - 📄 Know about my experiences [https://bit.ly/resume_naveen4](https://bit.ly/resume_naveen4)
+- ⚡ Fun fact **Learning DSA is really interesting! 🧠✨**
 <br>
 
 <h3 align="left">Connect with me:</h3>
