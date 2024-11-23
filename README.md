@@ -45,7 +45,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/naveenkrishna_4?theme=dark&font=Marmelad&ext=contest)](https://leetcode.com/u/naveenkrishna_4/)
 <br>
 <a href="https://leetcode.com/u/naveenkrishna_4/">
-  <img src="https://i.ibb.co/vj61RFX/Screenshot-2024-11-23-155416.png" alt="Screenshot-2024-09-16-123242" border="0">
+  <img src="https://i.ibb.co/vj61RFX/Screenshot-2024-11-23-155416.png" alt="LeetCode Profile" width="150">
 </a>
 
 <br>
